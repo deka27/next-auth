@@ -1,8 +1,8 @@
-###This is a full-stack authentication app made with NextJS.(13.4)
+## This is a full-stack authentication app made with NextJS(13.4)
 
-I have used MongoDB(atlas) to store the user data.
+#### MongoDB(atlas) has been used to store the user data.
 
-Libraries  |
+Libraries Used |
 ------------- |
 Axios  |
 bcryptjs |
